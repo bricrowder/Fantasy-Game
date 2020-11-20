@@ -1,0 +1,37 @@
+{
+    "objects":[
+        {
+            "name":"tree16",
+            "category":"tree",
+            "layer":1,
+            "quadinfo":{
+                "x":1,
+                "y":1,
+                "w":16,
+                "h":16
+            }
+        },        
+        {
+            "name":"tree32",
+            "category":"tree",
+            "layer":0,
+            "quadinfo":{
+                "x":19,
+                "y":1,
+                "w":32,
+                "h":32
+            }
+        },
+        {
+            "name":"tree64",
+            "category":"tree",
+            "layer":3,
+            "quadinfo":{
+                "x":53,
+                "y":1,
+                "w":64,
+                "h":64
+            }
+        }        
+    ]
+}

@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "bones.png",
+	"frame": {"x":1,"y":101,"w":31,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":31,"h":25},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "crystal.png",
+	"frame": {"x":30,"y":51,"w":25,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":25,"h":30},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "mushroom.png",
+	"frame": {"x":34,"y":101,"w":25,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":25,"h":21},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "mushrooma.png",
+	"frame": {"x":30,"y":83,"w":14,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":14,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "mushroomb.png",
+	"frame": {"x":46,"y":83,"w":14,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":14,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "player1.png",
+	"frame": {"x":1,"y":51,"w":27,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":27,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "player2.png",
+	"frame": {"x":1,"y":1,"w":30,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":30,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "player3.png",
+	"frame": {"x":33,"y":1,"w":29,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":29,"h":48},
+	"sourceSize": {"w":32,"h":48}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "textures.png",
+	"format": "RGBA8888",
+	"size": {"w":63,"h":127},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:994f06cf638a5d13cef09d7fb09c82fe:d4aa488a7ea0ebb92216fc5b4abe473d:cf827d152df04949dfee256cd0c8efd8$"
+}
+}
