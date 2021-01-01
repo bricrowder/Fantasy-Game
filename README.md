@@ -4,6 +4,8 @@ Overworld using random noise to create different biomes and paths.
 
 Random entrances to dungeons which are mazes with coloured doors and keys.
 
+Basic lighting techniques and placement.
+
 Controls:
 - Movement: WSAD
 - Turning: Mouse
