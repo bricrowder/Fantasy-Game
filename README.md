@@ -10,4 +10,4 @@ Controls:
 
 Works with Love 11.3 from www.love2d.com
 
-![Screenshot](Fantasy-Game Screenshot.png)
+![Screenshot](https://github.com/bricrowder/Fantasy-Game/blob/main/Fantasy-Game%20Screenshot.png)
